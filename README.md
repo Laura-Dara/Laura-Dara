@@ -12,4 +12,3 @@
 </div>
 
 <div style="display: flex">
-  <img align="right" alt="Laura gif" height="200" width="200" src="https://media.discordapp.net/attachments/913940886851846195/1143893628012470452/download20230803095453.png?">
