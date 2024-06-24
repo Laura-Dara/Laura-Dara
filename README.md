@@ -1,6 +1,6 @@
 ### Olá mundo! Eu sou a Laura
 
-- 📖 Eu estou estudando front-end (design, html, css, javascript, react, etc)
+- 📖 Desenvolvo sites utilizando UX e programação Front-End (design, html, css, javascript, react, bootstrap, figma...)
 - 📫 Contate-me pelo meu email: lauradarafiore@gmail.com
 
   ![Laura Dara's GitHub stats](https://github-readme-stats.vercel.app/api?username=Laura-Dara&hide=prs&show=reviews&show_icons=true&theme=gruvbox)
